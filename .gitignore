@@ -1,0 +1,7 @@
+*.pcap
+*.log
+*.zip
+*.7z
+*.gz
+*.key
+secrets.txt
