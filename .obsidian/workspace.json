@@ -11,10 +11,14 @@
             "id": "adc9c437d0061199",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Exploitation/Bypass Client or Server side filters (file upload).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bypass Client or Server side filters (file upload)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 487.5
   },
   "right": {
     "id": "0282a6ccdd3c6e6a",
@@ -162,5 +166,13 @@
     }
   },
   "active": "adc9c437d0061199",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Exploitation/metasploit_notes.md",
+    "Exploitation/Bypass Client or Server side filters (file upload).md",
+    "00_Overzicht.md",
+    "PostExploitation/loot_and_persistence.md",
+    "Enumeration/smb_enum.md",
+    "Reconnaissance/nmap_cheatsheet.md",
+    "PrivEsc/linux_privesc.md"
+  ]
 }
